@@ -45,7 +45,7 @@
 ### 截图：
 
 ##### ①启动程序：
-![](https://i.loli.net/2019/03/16/5c8ce9845d972.png)
+![](https://i.loli.net/2019/03/16/5c8ceb9e57634.png)
 ##### ②回到home界面：
 ![](https://i.loli.net/2019/03/16/5c8cbff7999d5.png)
 ##### ③回到程序界面：
